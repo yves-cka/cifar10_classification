@@ -4,8 +4,6 @@ Projet réalisé dans le cadre du cours **IA02 – Intelligence Artificielle** (
 
 Comparaison de **2 algorithmes de Machine Learning classiques**, **3 architectures CNN** et **1 CNN hybride par Transfer Learning** sur le dataset CIFAR-10.
 
-> Ce dépôt correspond à la **Partie 1** du projet. La Partie 2 (détection de fractures osseuses sur le dataset FracAtlas) se trouve dans un [dépôt séparé](https://github.com/<votre-pseudo>/fracatlas-fracture-detection).
-
 ## Auteurs
 
 - Yves CHEKOUA
@@ -47,12 +45,12 @@ Le notebook est conçu pour être exécuté sur **Google Colab** (GPU recommand�
 
 1. Ouvrir `cifar10_classification.ipynb` dans Google Colab
 2. Exécuter les cellules dans l'ordre (le dataset CIFAR-10 est chargé directement via `tensorflow.keras.datasets`)
-3. Les tailles de données ont été réduites (10 000 images pour la recherche d'hyperparamètres, sous-échantillons pour les CNN hybrides) afin de limiter les temps de calcul sur CPU — voir le rapport pour la justification
+3. Les tailles de données ont été réduites (10 000 images pour la recherche d'hyperparamètres, sous-échantillons pour le CNN hybride) afin de limiter les temps de calcul sur CPU — voir le rapport pour la justification
 
 ### Dépendances
 
 ```bash
-pip install tensorflow scikit-learn numpy matplotlib seaborn opencv-python
+pip install tensorflow scikit-learn numpy matplotlib seaborn
 ```
 
 ## Principaux enseignements
