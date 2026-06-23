@@ -1,6 +1,6 @@
-# Classification d'images CIFAR-10 — ML classiques, CNN et Transfer Learning
+# Classification d'images CIFAR-10 - CNN et Transfer Learning et ML classiques
 
-Projet réalisé dans le cadre du cours **IA02 – Intelligence Artificielle** (Université de Technologie de Troyes, promotion SN2).
+Projet réalisé dans le cadre du cours **IA02 - Intelligence Artificielle** (Université de Technologie de Troyes, promotion SN2).
 
 Comparaison de **2 algorithmes de Machine Learning classiques**, **3 architectures CNN** et **1 CNN hybride par Transfer Learning** sur le dataset CIFAR-10.
 
@@ -62,4 +62,4 @@ pip install tensorflow scikit-learn numpy matplotlib seaborn
 
 ## Licence
 
-Projet académique — UTT, IA02, 2026.
+Projet académique - UTT, IA02, 2026.
