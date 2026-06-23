@@ -1,6 +1,6 @@
-# Rapport — Classification CIFAR-10
+# Rapport - Classification CIFAR-10
 
-**Projet IA02 — Classification non linéaire grâce à l'IA avancée**
+**Projet IA02 - Classification non linéaire grâce à l'IA avancée**
 **Auteurs :** Yves CHEKOUA, Mohamed Mehdi TRABELSSI — UTT, SN2
 
 ## 1. Présentation du dataset
